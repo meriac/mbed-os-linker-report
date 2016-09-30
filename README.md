@@ -1,5 +1,5 @@
-# d3.js based ELF Linker Statistics
-This repository is used to generate interactive linker statistics. Please have a look at our [interactive example](https://armmbed.github.io/mbed-os-linker-report/).
+# d3.js based ELF Linker Statistics for uVisor
+This repository is used to generate interactive linker statistics. Please have a look at our [interactive example](https://meriac.github.io/mbed-os-linker-report/).
 
 
 ## Step-By-Step instructions
